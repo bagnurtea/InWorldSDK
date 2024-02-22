@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5abd9eaac9cc3e4585d7e8574c2511c, type: 3}
+  m_Name: unsc_base_default-s4a8ds3otfln7_s1ohdamq
+  m_EditorClassIdentifier: 
+  sceneFullName: workspaces/default-s4a8ds3otfln7_s1ohdamq/scenes/unsc_base
+  apiKey: Dz7NBvtzQFhMzniu8hoYmQPDYuCVhaDb
+  apiSecret: VrjC4jiM1corx8mYpJfy9wtQSz8h6dSbaO7XSQN4qQMlShIlPMS1zCE3LHYMm8cV
+  characters:
+  - agentId: 
+    brainName: workspaces/default-s4a8ds3otfln7_s1ohdamq/characters/cortana
+    givenName: Cortana
+    characterAssets:
+      rpmModelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/d8876af7-abf4-4592-8bbd-a23a84a33f9c.glb
+      rpmImageUriPortrait: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/d8876af7-abf4-4592-8bbd-a23a84a33f9c_portrait.jpg
+      rpmImageUriPosture: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/d8876af7-abf4-4592-8bbd-a23a84a33f9c_posture.jpg
+      avatarImg: 
+      avatarImgOriginal: 
+      thumbnailProgress: 0
+      avatarProgress: 0
+    thumbnail: {fileID: 0}
+  capabilities:
+    audio: 1
+    emotions: 1
+    interruptions: 1
+    narratedActions: 1
+    text: 1
+    triggers: 1
+    phonemeInfo: 1
+    relations: 1
